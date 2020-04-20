@@ -12,7 +12,9 @@
 
 - [Charlie__J的团队](https://www.luogu.com.cn/team/26308)
 
-- [Sheep](https://www.luogu.com.cn/team/17724)
+- [Sheep团队](https://www.luogu.com.cn/team/17724)
+
+- [蒟蒻欢乐大水团](https://www.luogu.com.cn/team/26129)
 
 ## 水贴：
 [水贴](https://www.luogu.com.cn/discuss/show/200560)
